@@ -47,8 +47,7 @@ below or their submissions will likely be rejected.
   "realistic" but less useful as a curated example of the language.
 - The submitted sentence should maintain the same furigana as in the original
   material, the submitter should not make changes to the furigana. Refer to the
-  data format section in the [README](../README.md) on how to encode the
-  furigana.
+  [data](DATA.md) document on how to encode the furigana.
 
 ## English Translation
 
@@ -76,7 +75,7 @@ below or their submissions will likely be rejected.
   aren't clear/specified in Japanese. For example: "He ate an apple" (good) vs
   "Ate an apple" (bad)
 - Do not shoehorn Japanese-specific language quirks in the English translation
-  (remove honorifics, it's okay to change <name>さん into "you", etc) unless
+  (remove honorifics, it's okay to change \<name\>さん into "you", etc) unless
   absolutely necessary (in which case it should be mentioned in the Notes).
 - Do not add or change details in the English translation that do not exist in
   the Japanese sentence without a good reason (which should be specified in the
