@@ -10,7 +10,7 @@ Here is a loose pseudocode representation of the data format:
 {
   // This is the expression that will be keyed on by the database
   "expression": <str>,
-  // All possible readings of the expression, in hiragana
+  // All possible readings of the expression, including alternative kanji
   "readings": [<str>],
   // List of all example sentence entries (see below) that use said expression
   "entries": [<Entry>]
@@ -28,7 +28,7 @@ Here is a loose pseudocode representation of the data format:
   "expression": <str>,
   // Type of source the sentence was taken from (see below)
   "source_type": SOURCE_TYPE,
-  // Title of the word the sentence was taken from (see below)
+  // Title of the work the sentence was taken from (see below)
   "source_title": <str>,
   // Whether the sentence contains sensitive content (sex, gore, violence, etc)
   "sensitive": <bool>
