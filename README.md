@@ -1,6 +1,4 @@
-# Moe Bun-dex Project
-
-萌え文dex :)
+# 萌え文dex - Moe Bun-dex Project
 
 ## What is this?
 
