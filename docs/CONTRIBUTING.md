@@ -10,7 +10,8 @@ below or their submissions will likely be rejected.
 - All sentences must have an attributable source. This preferably would be the
   title of the work the sentence has been taken from. In case of works with
   multiple entries/volumes, having the exact volume or episode number is ideal
-  but not required.
+  but not required. When possible, the original author should also be mentioned
+  in the source notice.
 - All sentences must have a tag that describes the type of material they were
   taken from. There are works that share the same title across light novel,
   manga, and anime adaptations. Knowing which sentence comes from which material

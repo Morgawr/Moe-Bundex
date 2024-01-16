@@ -57,3 +57,8 @@ this project, we recommend keeping in mind the following:
 
 See the [CONTRIBUTING.md](docs/CONTRIBUTING.md) page for details on how to
 contribute new sentences.
+
+## Fair Use of Copyrighted Works
+
+This project is being developed in accordance with Japanese Copyright Laws.
+See [this page](DISCLAIMER.md) for further details and references.
